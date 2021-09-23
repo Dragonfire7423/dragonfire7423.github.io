@@ -1,0 +1,13 @@
+/* .special {color:red;}
+.special2 {background:black;}
+a {color:aqua;}
+section a {color:chocolate;}
+.container {color:orange;}
+p {font-size: 20px;}
+p {font-size: 30px!important;} */
+
+nav li a {color: magenta;}
+
+div {background: red; height: 100px; width: 300px; display: inline-block;}
+
+span {background: greenyellow; height: 50; width: 300px; display: block;}
