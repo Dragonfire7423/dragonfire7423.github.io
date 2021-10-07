@@ -11,3 +11,33 @@ body {background-color: gray;}
 li {color:white}
 li {font-size: 20px;}
 img {display: block; margin-left: auto; margin-right: auto;}
+
+.title-text {
+
+}
+
+.boxes {
+    border: 1px;
+    padding: 10px;
+    box-shadow: 5px 10px #EF70ED;
+}
+
+.box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+}
+
+
+
+INDEX
+/* 
+
+<h1 class="green color">
+    <p>This would be green because of the green color class</p>
+
+<div class="green color">
+    <p> This one would also be green because of the green color class</p>
+    <p id="pink color"> But this one has a pink color id and would be pink. The id overrides the green and is inside the class</p>
+*/
