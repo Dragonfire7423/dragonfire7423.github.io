@@ -22,7 +22,7 @@ li a {
 }
 
 li a:hover {
-  background-color: pink;
+  background-color: #0033a0;
 }
 
 .active {
@@ -98,4 +98,13 @@ div.desc {
   .responsive {
     width: 100%;
   }
+}
+
+/* rounding corners */
+
+.roundcorners {
+  border-radius: 25px;
+  padding: 20px; 
+  width: auto;
+  height: auto;  
 }
